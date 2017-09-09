@@ -1,6 +1,8 @@
 #NaiveAR
 
-NaiveAR:**A** nother **I** mplement of the **V** ersatile and **E** xciting AR.
+NaiveAR:**A** nother **I** mplement of the **V** ersatile and **E** xciting  marker-based AR.
+
+![](1.jpg)
 
 -------------
 
@@ -12,13 +14,13 @@ probably portable for both platform.Maybe path is to be redirected.
 compile it and run,during which the directories structure should be like this 
 
 ```
-©À©¤bin
-©¦  ©¸©¤Debug
-©¦		©¸©¤NaiveAR
-©À©¤Resource
-©¦  ©¸©¤Marker
-©¦		©¸©¤marker.jpg
-©¸©¤ambd.voc
+â”œâ”€bin
+â”‚  â””â”€Debug
+â”‚	â””â”€NaiveAR
+â”œâ”€Resource
+â”‚  â””â”€Marker
+â”‚	â””â”€marker.jpg
+â””â”€ambd.voc
 ```
 
 ##Dependencies:
